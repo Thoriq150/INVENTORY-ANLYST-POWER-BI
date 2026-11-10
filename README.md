@@ -55,19 +55,22 @@ Dashboard terdiri dari tiga halaman utama:
 
 Menampilkan ringkasan kondisi inventori melalui KPI, grafik tren transaksi, produk dengan barang keluar tertinggi, serta informasi kategori dan supplier.
 
-![Overview Dashboard](Preview/01-Overview.png)
+<img width="968" height="555" alt="Screenshot (38)" src="https://github.com/user-attachments/assets/350c0acf-42a0-47c4-b31c-203eb558c6e4" />
+
 
 ### 4.2 Inventory Detail
 
 Menampilkan informasi stok setiap produk, kategori, supplier, dan status persediaan. Halaman ini juga membantu melihat produk dengan stok terendah.
 
-![Inventory Detail Dashboard](Preview/02-Inventory-Detail.png)
+<img width="957" height="534" alt="Screenshot (37)" src="https://github.com/user-attachments/assets/5dbf04b2-57be-45eb-b172-73a1184487a1" />
+
 
 ### 4.3 Transaction Analysis
 
 Menampilkan aktivitas transaksi barang masuk dan keluar, perbandingan kuantitas barang, tren transaksi berdasarkan tanggal, serta riwayat transaksi.
 
-![Transaction Analysis Dashboard](Preview/03-Transaction-Analysis.png)
+<img width="967" height="537" alt="Screenshot (35)" src="https://github.com/user-attachments/assets/9af9d188-034f-4918-8827-a43cbed4048d" />
+
 
 ## 5. Key Insights
 
