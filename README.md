@@ -1,7 +1,7 @@
 # UMKM Inventory Analytics Dashboard
 
 Dashboard analisis inventori UMKM menggunakan **Microsoft Power BI** untuk memantau stok barang, menganalisis transaksi masuk dan keluar, serta mengidentifikasi produk dengan stok rendah.
-
+Data di analisis dari project ini => https://github.com/Thoriq150/Laravel-inventory-XGBoost.git
 ## 1. Project Overview
 
 Proyek ini dibuat untuk mengolah data inventori menjadi informasi yang lebih mudah dipahami melalui visualisasi dashboard.
