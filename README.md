@@ -55,7 +55,7 @@ Dashboard terdiri dari tiga halaman utama:
 
 Menampilkan ringkasan kondisi inventori melalui KPI, grafik tren transaksi, produk dengan barang keluar tertinggi, serta informasi kategori dan supplier.
 
-<img width="968" height="555" alt="Screenshot (38)" src="https://github.com/user-attachments/assets/350c0acf-42a0-47c4-b31c-203eb558c6e4" />
+<img width="981" height="546" alt="Screenshot (39)" src="https://github.com/user-attachments/assets/6729920b-8d6c-45eb-80bd-447abe92e29f" />
 
 
 ### 4.2 Inventory Detail
